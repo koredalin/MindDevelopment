@@ -1,0 +1,164 @@
+GettingToKnowSEO-Andre_Kibbe
+Цел:
+Getting To Know SEO. The world has to know about me and my work!
+
+
+
+Introduction 6 - around 3000 words 
+Questions:
+Why Learn SEO? - 6
+Which are the Benefits of SEO? - 7
+How This Book Is Organized? - 12
+Test 1: 4 mins.
+Answers: 
+I can earn money with SEO.
+Test 2: 6 mins.
+Answers: 
+Main search engines are Google and Bing.
+Yahoo uses BING search engine - (26.1%).
+Google (65.6%).
+SEO focus on focus Facebook, Twitter and Google+.
+Search, Social and PPC (pay per click) traffic.
+I can earn money with SEO.
+Test 3: 8 mins.
+Answers: 
+PPC costs $0,25 per click
+A short explanation of the book's heads/titles.
+
+
+1 Content + Links = SEO 15 - 8 pages - around 3400 words.
+second 5 mins
+all would agree that the two most import aspects of search
+engine optimization are content and links: “on-page” and “off-page”
+factors.h
+Questions:
+What’s in a Page? 15
+trhird 2 mins:
+The pages have "page rank".????
+How can I write a Good Content? 16
+What are the Keywords and Tags: The Elements of On-Page SEO? 17
+first 5 mins
+Title tags
+Meta descriptions
+Headers - Using titles and p tags.
+Alt text - alt flags on each image.
+
+Links: The Elements on Off-Page SEO 18
+Which are the Keys to an SEO-Friendly Site? 19
+Answers:
+Simple reading time - 28 mins (Имах известни проблеми с разбирането на понятието page rank):
+Search engines lists a single pages, not the whole sites.
+Google search result is only for a specific URL (individual web page), not for the whole s.
+Page Rank should leads Google to the main page as a highest rank /Explanation in Chapter 5/.
+The only way they can determine whether a page is relevant to a particular topic is to scan for keywords.
+Links from other websites are called backlinks.
+Links from three different websites will have more weight than three links from the same website. 
+Links from pages with higher PageRank will have more weight than links from pages with lower PageRank.
+The main activity should exist in the domain.
+Each single page should have a page title.
+Any links in Social media sites are backlinks, which should set up higher level of your site.
+It's good internal links to be a whole sentences.
+
+
+2 The Importance of Keywords 22
+Keywords 22
+Keys to Leveraging Keywords 25
+Resume:
+Shorter keywords are called “head” or “primary” keywords.
+Longer keywords are known as “long tail” keywords.
+In most cases you’ll at least want to start your SEO campaigns with long tail keywords.
+Single words are more often searched, but the sentences sell!
+Virtually all successful SEO comes down to an ongoing cycle of publishing content and building links.
+Прегледай 5-6 сайта за ключови думи. Make a brain storming for keywords. Include your tools (calculator, clock, helper...).
+
+
+3 Keyword Research Basics 28
+How The Google AdWords Keyword Tool works? - 28
+Which are the Core Principles of Keyword Research? - 36
+4 mins - nothing
+There are tremendous differences between the different searched phrases, independently that they are synonyms.
+You can find the Google AdWords Keyword Tool (usually just called the Google Keyword Tool) at http://adwords.google.com. Under the Tools and Analysis tab, select Keyword Tool.
+The synonyms into the phrases could make huge differences, even locally.
+Local search queries are with advantage.
+It’s often easier to find six long tail keywords that each get approximately 600 searches a month than one highly competitive keyword that gets 3,600 searches.
+Page 32 - tool settings!!!
+Any time someone enters a search containing the words “hybrid” and “cars” (or “car”) into Google, that search gets tallied as a match for “hybrid cars”.
+Cost per click (CPC) - Search Volume x CPC x .005
+The results from the keyword tools depends on the place and time of using the tool.
+Pages 36, 37 - main review of the Google keyword tool.
+There are: 
+	navigational - mainly single words, which leads to larger sites;
+	transactional - shorten exact longtail keywords - gets the main benefit;
+	informational - larger explanation longtail keywords, the user mainly needs some help
+keywords. // 37 page
+
+
+
+
+
+
+
+
+
+
+4 On-Page Optimization 39
+
+5 Understanding Backlinks 52
+
+6 Getting Links 61
+
+7 Understanding Competition 71
+
+8 Sharpening the Saw 94
+
+About The Author 98
+
+Въпроси:
+
+
+
+WHAT ARE:
+
+
+
+
+
+
+HTML for On-Page Factors 40
+Meta Tags 41
+Header Tags 46
+Bold and Italic Tags 46
+Image Tags 47
+The Domain Name 48
+Jump Starting Your On-Page Optimization 49
+
+Link Nets 52
+The HTML Structure of Links 52
+Why Backlinks Matter 53
+PageRank 54
+Anchor Text Variation 56
+Natural vs. Manufactured Links 57
+Key Points on Internal Links and Backlinks 58
+
+Base Links 61
+Beginning to Build Links 62
+Guest Posting Networks 65
+Key Points on Getting Backlinks 68
+Accounting for Competition 69
+
+Narrowing Your Niche 71
+Finding Long Tail Keywords 72
+Analyzing Keyword Competition 74
+Whole-Page PageRank Assessment 75
+The Pure PageRank Method 79
+Getting More Keywords 82
+Getting a Handle on Competition 90
+
+Dealing with Setbacks 94
+Regular Reading 95
+// end of WHAT ARE
+Ключови думи:
+
+Отговори:
+
+Резюме:

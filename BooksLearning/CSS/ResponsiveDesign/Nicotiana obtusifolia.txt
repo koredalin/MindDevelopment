@@ -1,0 +1,29 @@
+http://en.wikipedia.org/wiki/File:Nicotiana_obtusifolia_flower.jpg
+Smashing magazine
+Book: Responsive design
+	Няма прикачен софтуерен код.
+Authors: 
+	Ben Callahan
+	James Young
+	Jeremy Hixon
+	Kayla Knight
+	Lewis Nyman
+	Rachel Andrew
+	Thierry Koblentz
+	
+Цел: Да платя тока.
+
+Резюме:
+
+	
+Въпроси:
+Table of Contents
+Responsive Web Design: What It Is And How To Use It
+Progressive And Responsive Navigation
+Techniques For Gracefully Degrading Media Queries
+Is There Ever A Justification For Responsive Text?
+How To Use CSS3 Media Queries To Create A Mobile Version Of Your
+Website
+Device-Agnostic Approach To Responsive Web Design
+Content Prototyping In Responsive Web Design
+About The Authors

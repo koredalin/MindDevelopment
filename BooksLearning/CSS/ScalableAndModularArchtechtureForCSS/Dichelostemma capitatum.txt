@@ -1,0 +1,50 @@
+http://en.wikipedia.org/wiki/File:Dichelostemma_capitatum_3.jpg
+
+Цел: Да купя кукли на Надя.
+
+Въпроси:
+1. How the rules are categorized? - page 4
+	By categorizing CSS rules, we begin to see patterns and can define better practices around each of these patterns.
+	How the rules works? A shorten explanation - page 5.
+	Some naming hints - page 6.
+		Example classes
+		/* Example Module */
+		.example { }
+		/* Callout Module */
+		.callout { }
+		/* Callout Module with State */
+		.callout.is-collapsed { }
+		/* Form field module */
+		.field { }
+		/* Inline layout */
+		.l-inline { }
+	1. Base - page 8; 
+		Using body background is recomended.
+		CSS Resets - universal settings - not recommended.
+		
+	2. Layout; 
+		Defines main frames of the page.
+	3. Module; 
+	4. State; 
+	5. Theme
+
+2. Changing state - page 30
+Change via Pseudo-class
+Change via Media Query
+
+3. Depth of Applicability - page 47
+Minimizing the Depth
+
+4. Selector Performance - page 52
+How CSS gets evaluated
+The style of an element is evaluated on element
+creation
+CSS gets evaluated from right to left.
+Which rules rule?
+
+5. HTML5 and SMACSS - page 57
+
+6. Prototyping - page 62
+
+7. Formatting Code - 67
+
